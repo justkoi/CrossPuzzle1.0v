@@ -1,0 +1,67 @@
+﻿  main.cpp
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  TeamLogoScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  StageMenuScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  PopList.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  MenuScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Map.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  LogoScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  LevelMenuScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  HelloWorldScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  GameScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CPlaneManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CNumberManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CNumber.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CEffectManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Dot.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CreditScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CreditBlock.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CMStyleButton.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CComboManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Block.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  AppDelegate.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\cocos2dx\platform\android\jni\JniHelper.h(27,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'jni.h': No such file or directory

@@ -1,0 +1,45 @@
+﻿  AppDelegate.cpp
+  Block.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CComboManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CMStyleButton.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CreditBlock.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CreditScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  Dot.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CEffectManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CNumber.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CNumberManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  CPlaneManager.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  GameScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  HelloWorldScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  LevelMenuScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  LogoScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  Map.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  MenuScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  PopList.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  StageMenuScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  TeamLogoScene.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  main.cpp
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
+  코드를 생성하고 있습니다...
+D:\이전노트북자료\노연자료(게임고)\Cocos2d\cocos2d\CrossPuzzle\CrossPuzzle\Classes\UserInclude.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'cocos2d.h': No such file or directory
